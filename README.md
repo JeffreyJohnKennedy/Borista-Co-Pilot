@@ -69,7 +69,7 @@ This pipeline converts **voice → structured JSON → POS order**, fully automa
 
 The following diagram represents the **end-to-end Dutch Bros Order Processing Architecture**, integrating voice, AI, and analytics systems.
 
-![Dutch Bros Order Processing Architecture](<img width="689" height="754" alt="image" src="https://github.com/user-attachments/assets/e20d0454-99d3-40ef-91f9-bc9191f333b2" />)
+![Dutch Bros Order Processing Architecture](<img width="1961" height="2281" alt="image" src="https://github.com/user-attachments/assets/ed24a012-922f-4612-b91c-72e649f079b9" />)
 
 This architecture shows how **DutchPass (QR)**, **AWS Transcribe**, **Claude Sonnet**, and **FastAPI Gateway** interconnect to automate the order flow, from speech to structured POS-ready data — seamlessly bridging real-world interactions with backend intelligence.
 
@@ -79,7 +79,7 @@ This architecture shows how **DutchPass (QR)**, **AWS Transcribe**, **Claude Son
 
 Below is the **Order Automation Funnel**, illustrating how the system processes spoken orders using layered intelligence.
 
-![Dutch Bros Order Automation Funnel](<img width="1014" height="713" alt="image" src="https://github.com/user-attachments/assets/ed24c22c-bc42-4365-977a-ba2c0d52f9f4" />)
+![Dutch Bros Order Automation Funnel](<img width="1704" height="1320" alt="image" src="https://github.com/user-attachments/assets/13c154bb-b1c3-4ef8-a380-99b28eee9409" />)
 
 This funnel breaks down each step — from **audio-to-text conversion (AWS Transcribe)** to **LLM-driven entity extraction (Claude Sonnet)**, **menu matching**, and **cart building** — ending with a **barista review loop** for quality assurance.
 
