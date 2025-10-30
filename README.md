@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="assets/22bdaab9-1f32-4ac0-a0a0-18e0d01d18e7.gif" alt="Millie Product Demo" width="800"/>
+  <![videoplayback (1)](https://github.com/user-attachments/assets/f306f5bf-7d9e-4ab9-8c3c-ef34924c1d78)>
 </p>
 
 ---
