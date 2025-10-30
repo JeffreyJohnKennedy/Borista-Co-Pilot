@@ -65,25 +65,22 @@ This pipeline converts **voice → structured JSON → POS order**, fully automa
 
 ---
 
-## 🧩 Model Architecture
+## 🏗️ Technical Architecture Overview
 
-The following diagram represents the **end-to-end Dutch Bros Order Processing Architecture**, integrating voice, AI, and analytics systems.
+The following diagrams show how Millie processes orders from **voice → structured JSON → POS**, integrating AWS, FastAPI, and LLM intelligence.
 
-![Dutch Bros Order Processing Architecture](<img width="1961" height="2281" alt="image" src="https://github.com/user-attachments/assets/ed24a012-922f-4612-b91c-72e649f079b9" />)
+### 🧩 System Architecture
+<img width="100%" alt="Dutch Bros Order Processing Architecture" src="https://github.com/user-attachments/assets/ed24a012-922f-4612-b91c-72e649f079b9" />
 
-This architecture shows how **DutchPass (QR)**, **AWS Transcribe**, **Claude Sonnet**, and **FastAPI Gateway** interconnect to automate the order flow, from speech to structured POS-ready data — seamlessly bridging real-world interactions with backend intelligence.
+This architecture shows how **DutchPass (QR)**, **AWS Transcribe**, **Claude Sonnet**, and **FastAPI Gateway** interconnect to automate the order flow — bridging real-world interactions with backend intelligence.
 
----
+### 🧠 LLM Workflow
+<img width="100%" alt="Dutch Bros Order Automation Funnel" src="https://github.com/user-attachments/assets/13c154bb-b1c3-4ef8-a380-99b28eee9409" />
 
-## 🧠 LLM Workflow
-
-Below is the **Order Automation Funnel**, illustrating how the system processes spoken orders using layered intelligence.
-
-![Dutch Bros Order Automation Funnel](<img width="1704" height="1320" alt="image" src="https://github.com/user-attachments/assets/13c154bb-b1c3-4ef8-a380-99b28eee9409" />)
-
-This funnel breaks down each step — from **audio-to-text conversion (AWS Transcribe)** to **LLM-driven entity extraction (Claude Sonnet)**, **menu matching**, and **cart building** — ending with a **barista review loop** for quality assurance.
+This funnel breaks down how **audio input** becomes **POS-ready data** through layered intelligence — transcription, extraction, menu matching, and pricing — before **barista review** ensures accuracy.
 
 ---
+
 
 ---
 
