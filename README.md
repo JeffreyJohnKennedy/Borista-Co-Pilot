@@ -65,6 +65,28 @@ This pipeline converts **voice → structured JSON → POS order**, fully automa
 
 ---
 
+## 🧩 Model Architecture
+
+The following diagram represents the **end-to-end Dutch Bros Order Processing Architecture**, integrating voice, AI, and analytics systems.
+
+![Dutch Bros Order Processing Architecture](./850baff6-56f6-4748-961a-528ac4c70d1a.png)
+
+This architecture shows how **DutchPass (QR)**, **AWS Transcribe**, **Claude Sonnet**, and **FastAPI Gateway** interconnect to automate the order flow, from speech to structured POS-ready data — seamlessly bridging real-world interactions with backend intelligence.
+
+---
+
+## 🧠 LLM Workflow
+
+Below is the **Order Automation Funnel**, illustrating how the system processes spoken orders using layered intelligence.
+
+![Dutch Bros Order Automation Funnel](./adfa2744-578d-459f-82fd-393f87cdd77e.png)
+
+This funnel breaks down each step — from **audio-to-text conversion (AWS Transcribe)** to **LLM-driven entity extraction (Claude Sonnet)**, **menu matching**, and **cart building** — ending with a **barista review loop** for quality assurance.
+
+---
+
+---
+
 ## 🧰 Tech Stack
 
 | Layer | Technologies |
