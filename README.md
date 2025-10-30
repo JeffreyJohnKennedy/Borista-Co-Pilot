@@ -8,9 +8,11 @@
 ![Hackathon](https://img.shields.io/badge/Hackathon-2nd%20Prize%20Winner-gold)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<p align="center">
-  <![videoplayback (1)](https://github.com/user-attachments/assets/f306f5bf-7d9e-4ab9-8c3c-ef34924c1d78)>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f306f5bf-7d9e-4ab9-8c3c-ef34924c1d78"
+       alt="Millie Product Demo"
+       width="900" />
+</div>
 
 ---
 
