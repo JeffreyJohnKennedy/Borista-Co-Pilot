@@ -67,8 +67,6 @@ This pipeline converts **voice → structured JSON → POS order**, fully automa
 
 ## 🏗️ Technical Architecture Overview
 
-The following diagrams show how Millie processes orders from **voice → structured JSON → POS**, integrating AWS, FastAPI, and LLM intelligence.
-
 ### 🧩 System Architecture
 <img width="100%" alt="Dutch Bros Order Processing Architecture" src="https://github.com/user-attachments/assets/ed24a012-922f-4612-b91c-72e649f079b9" />
 
