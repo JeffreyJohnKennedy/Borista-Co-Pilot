@@ -151,13 +151,13 @@ Millie transcribes → identifies modifiers → sends JSON → adds drink to car
 
 ## 🧑‍💻 Team 2169 – Arizona State University
 
-| Name | Role | School |
-|------|------|---------|
-| **Lekshman Babu** | Data Science Lead | Ira A. Fulton School of Engineering |
-| **Maanesh Mohanraj** | ML Engineer | Ira A. Fulton School of Engineering |
-| **Ben Stewart** | Software Engineer | Ira A. Fulton School of Engineering |
-| **Vijai Kumar** | Data Scientist | Ira A. Fulton School of Engineering |
-| **Jeffrey John Kennedy** | Business Analyst | W. P. Carey School of Business |
+| Name | School |
+|------|---------|
+| **Lekshman Babu** | Ira A. Fulton School of Engineering |
+| **Maanesh Mohanraj** | Ira A. Fulton School of Engineering |
+| **Ben Stewart** | Ira A. Fulton School of Engineering |
+| **Vijai Kumar** | Ira A. Fulton School of Engineering |
+| **Jeffrey John Kennedy** | W. P. Carey School of Business |
 
 ---
 
