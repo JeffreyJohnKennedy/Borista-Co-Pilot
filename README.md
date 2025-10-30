@@ -165,6 +165,7 @@ Millie transcribes → identifies modifiers → sends JSON → adds drink to car
 
 This project is licensed under the **MIT License**.  
 See `LICENSE` for details.
+
 ---
 
 > 🧠 *“Automation does the typing; broistas keep the magic.” — Millie, your Dutch Bros Co-Pilot*
