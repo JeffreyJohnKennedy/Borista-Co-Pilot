@@ -8,7 +8,9 @@
 ![Hackathon](https://img.shields.io/badge/Hackathon-2nd%20Prize%20Winner-gold)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5740a764-63b9-4571-a909-dca5f8371094" />
+<p align="center">
+  <img src="assets/22bdaab9-1f32-4ac0-a0a0-18e0d01d18e7.gif" alt="Millie Product Demo" width="800"/>
+</p>
 
 ---
 
