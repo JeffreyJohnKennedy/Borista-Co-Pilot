@@ -165,14 +165,6 @@ Millie transcribes → identifies modifiers → sends JSON → adds drink to car
 
 This project is licensed under the **MIT License**.  
 See `LICENSE` for details.
-
----
-
-## 📫 Contact
-
-📧 team.spark@dutchbros.ai  
-🌐 [Dutch Bros Hackathon Portal](https://dutchbros.com/hackathon)
-
 ---
 
 > 🧠 *“Automation does the typing; broistas keep the magic.” — Millie, your Dutch Bros Co-Pilot*
